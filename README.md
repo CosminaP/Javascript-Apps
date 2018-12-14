@@ -13,3 +13,4 @@ GAME RULES:
 
 # Budgety Planning App
 Budgety Project — Arhitectural App Structure Explained by Steps:
+![Step1](https://raw.githubusercontent.com/CosminaP/Javascript-Apps/master/Budgety%20Planning%20App/Arhitecture-pics/Step1.png)
