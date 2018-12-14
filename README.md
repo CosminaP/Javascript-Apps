@@ -1,8 +1,8 @@
 # Javascript Apps
-Contains a set of Applications and Games build with Javascript;
+A folder which contains a set of Applications and Games build with raw Javascript;
 
 
-# Dice Game Application 
+# 1. Dice Game Application 
 GAME RULES:
 - The game has 2 players, playing in rounds
 - In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score
@@ -11,7 +11,7 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 
 
-# Budgety Planning App
+# 2. Budgety Planning App
 ![Overview](https://raw.githubusercontent.com/CosminaP/Javascript-Apps/master/Budgety%20Planning%20App/Arhitecture-pics/overview.png)
 
 Budgety App Project — Arhitectural Structure Explained by Steps:
