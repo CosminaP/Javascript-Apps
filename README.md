@@ -12,7 +12,7 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 ![Dice Game Print Screen](https://raw.githubusercontent.com/CosminaP/Javascript-Apps/master/Dice-Game/mini-game/Dice.png)
 
-# 2. Budgety Planning App
+# 2. Budget Planning App
 ![Overview](https://raw.githubusercontent.com/CosminaP/Javascript-Apps/master/Budgety%20Planning%20App/Arhitecture-pics/overview.png)
 - App for Calcualting and keeping track on your expenses and source of incomes;
 - Helps you organize your expenses and set a monthly budget;
