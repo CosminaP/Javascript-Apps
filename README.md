@@ -11,5 +11,5 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 
 
-#Budgety Planning App
+# Budgety Planning App
 Budgety Project — Arhitectural App Structure Explained by Steps:
