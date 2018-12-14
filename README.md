@@ -14,8 +14,11 @@ GAME RULES:
 
 # 2. Budgety Planning App
 ![Overview](https://raw.githubusercontent.com/CosminaP/Javascript-Apps/master/Budgety%20Planning%20App/Arhitecture-pics/overview.png)
-
-Budgety App Project — Arhitectural Structure Explained by Steps:
+- App for Calcualting and keeping track on your expenses and source of incomes;
+- Helps you organize your expenses and set a monthly budget;
+- Displays what is the value of an expense in % from your monthly budget
+- Gives you expense clarity and budget awarness, showing what is left form the monthly bugdet after expenses; 
+- If the daily budget is less than 10% you will receive an alert that you are reaching the limit expense for that month;
 <!---
 (![Step1](https://raw.githubusercontent.com/CosminaP/Javascript-Apps/master/Budgety%20Planning%20App/Arhitecture-pics/Step1.png)
 (![Arhitecture-Step1](https://github.com/CosminaP/Javascript-Apps/blob/master/Budgety%20Planning%20App/Arhitecture-pics/Arhitecture-Step1.png)
