@@ -19,3 +19,5 @@ Budgety App Project — Arhitectural Structure Explained by Steps:
 ![Arhitecture-Step1](https://github.com/CosminaP/Javascript-Apps/blob/master/Budgety%20Planning%20App/Arhitecture-pics/Arhitecture-Step1.png)
 ![Step2](https://raw.githubusercontent.com/CosminaP/Javascript-Apps/master/Budgety%20Planning%20App/Arhitecture-pics/Step2.png)
 ![Arhitecture-Step1](https://raw.githubusercontent.com/CosminaP/Javascript-Apps/master/Budgety%20Planning%20App/Arhitecture-pics/Arhitecture-Step2.png)
+![Step3](https://raw.githubusercontent.com/CosminaP/Javascript-Apps/master/Budgety%20Planning%20App/Arhitecture-pics/Step3.png)
+![Arhitecture-Step3](https://raw.githubusercontent.com/CosminaP/Javascript-Apps/master/Budgety%20Planning%20App/Arhitecture-pics/Arhitecture-Step3.png)
