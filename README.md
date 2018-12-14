@@ -1,6 +1,7 @@
 # Javascript Apps
-A folder which contains a set of Applications and Games build with raw Javascript;
-
+- A folder which contains a set of Applications and Games build with raw Javascript;
+- Each App and Game have a short description and arhitectural structure included;
+- Print screens are available to make it easy to visualize and understand the end result;
 
 # 1. Dice Game Application 
 GAME RULES:
