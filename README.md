@@ -16,7 +16,7 @@ GAME RULES:
 ![Overview](https://raw.githubusercontent.com/CosminaP/Javascript-Apps/master/Budgety%20Planning%20App/Arhitecture-pics/overview.png)
 - App for Calcualting and keeping track on your expenses and source of incomes;
 - Helps you organize your expenses and set a monthly budget;
-- Displays what is the value of an expense in % from your monthly budget
+- Displays what is the value of an expense in % from your monthly budget;
 - Gives you expense clarity and budget awarness, showing what is left form the monthly bugdet after expenses; 
 - If the daily budget is less than 10% you will receive an alert that you are reaching the limit expense for that month;
 <!---
