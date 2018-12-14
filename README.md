@@ -13,7 +13,8 @@ GAME RULES:
 ![Dice Game Print Screen](https://raw.githubusercontent.com/CosminaP/Javascript-Apps/master/Dice-Game/mini-game/Dice.png)
 
 # 2. Budget Planning App
-![Overview](https://raw.githubusercontent.com/CosminaP/Javascript-Apps/master/Budgety%20Planning%20App/Arhitecture-pics/overview.png)
+![Overview](https://raw.githubusercontent.com/CosminaP/Javascript-Apps/master/Budget%20Planning%20App/Arhitecture-pics/overview.png)
+
 ## Description:
 - App for Calcualting and keeping track on your expenses and source of incomes;
 - Helps you organize your expenses and set a monthly budget;
